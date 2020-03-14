@@ -33,4 +33,12 @@ rspec
 rubocop
 ```
 
--------------README.MD-------First step and project configuration.--------------
+-------------README.MD-------First step and project configuration.---------
+
+In the next step of the project the following has been done:
+ - Feature test and test for a list of bookmarks.
+ - New class BookMarks have been added.
+ - erb file now is referred to implement the mvc model.
+ - Method added to the class to simple show a list of bookmarks. At this phase of the project the bookmarks are still hardcoded.
+
+ --------------------------SECOND COMMIT------------------------------------
